@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	a folder becomes a GitHub repository, it's necessary for using GitHub
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	the staging area is an intermediary between the working directory and the repository, it allows the user to choose which files are going to be commited
 
 How can you use the staging area to make sure you have one commit per logical
 change?
